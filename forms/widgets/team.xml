@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.team:">
+	<tab>
+		<fieldset>
+            	<field name="teams" control="objectPicker" object="common_widget_team" multiple="true" sortable="true" quickadd="true" quickedit="true" />
+		</fieldset>
+	</tab>
+</form>
